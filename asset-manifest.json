@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Learn-Backend-FreeCodeCamp/static/css/main.f855e6bc.css",
+    "main.js": "/Learn-Backend-FreeCodeCamp/static/js/main.1fde67e0.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Learn-Backend-FreeCodeCamp/static/js/787.d4aba7ab.chunk.js",
+    "static/media/logo.svg": "/Learn-Backend-FreeCodeCamp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Learn-Backend-FreeCodeCamp/index.html",
+    "main.f855e6bc.css.map": "/Learn-Backend-FreeCodeCamp/static/css/main.f855e6bc.css.map",
+    "main.1fde67e0.js.map": "/Learn-Backend-FreeCodeCamp/static/js/main.1fde67e0.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Learn-Backend-FreeCodeCamp/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1fde67e0.js"
+  ]
+}
